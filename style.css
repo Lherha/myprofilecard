@@ -1,5 +1,5 @@
 @import url('https://https://fonts.goggleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900');
-{
+*{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -10,12 +10,12 @@ body
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 70vh;
-  background: linear-gradient(45deg, #69d4f5, #3a8ab8);
+  height: 100vh;
+  background: linear-gradient(45deg, #6ed7f7, #3a8ab8);
 }
 .card
 {
-  position: relative;
+  /* position: relative; */
   width: 320px;
   height: 300px;
   background: #fff;
