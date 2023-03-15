@@ -49,16 +49,19 @@ img{
 .heading{
   text-align: center;
   font-family:sans-serif;
-  font-size: 160%;
+  font-size: 150%;
+  padding: 0.5rem 1rem;
 }
 .title{
   text-align: center;
   font-family:'Courier New', Courier, monospace;
   font-size: 100%;
   font-weight: bold;
+  padding: 0.5rem 1rem;
 }
 p{
   text-align: justify;
-  text-justify: inter-word;
+  padding: 0.5rem 1rem;
+  text-justify:auto
   font-size: auto;
 }
